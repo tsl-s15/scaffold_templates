@@ -1,5 +1,8 @@
 # scaffold_templates
 
-Make sure you add and install the [simple form gem](https://github.com/plataformatec/simple_form) first
+First, make sure you add and install the 
 
-Put these files into /lib/templates/erb/scaffold
+1. [simple form gem](https://github.com/plataformatec/simple_form) 
+2. [font-awesome rails gem](https://github.com/FortAwesome/font-awesome-sass)
+
+Then, put the erb files into /lib/templates/erb/scaffold

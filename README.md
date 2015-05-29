@@ -1,4 +1,4 @@
-# scaffold_templates
+# Rails scaffold templates
 
 ## Setup
 First, make sure you've added and installed the following gems:
